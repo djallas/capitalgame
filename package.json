@@ -2,6 +2,7 @@
   "name": "name-test",
   "version": "0.1.0",
   "private": true,
+  "main": "src/index.js",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.12.0",
