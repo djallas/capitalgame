@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/capitalgame/static/css/main.26aa9c38.chunk.css",
+    "main.js": "/capitalgame/static/js/main.1e22f5e8.chunk.js",
+    "main.js.map": "/capitalgame/static/js/main.1e22f5e8.chunk.js.map",
+    "runtime~main.js": "/capitalgame/static/js/runtime~main.80523366.js",
+    "runtime~main.js.map": "/capitalgame/static/js/runtime~main.80523366.js.map",
+    "static/js/2.52a5ba6b.chunk.js": "/capitalgame/static/js/2.52a5ba6b.chunk.js",
+    "static/js/2.52a5ba6b.chunk.js.map": "/capitalgame/static/js/2.52a5ba6b.chunk.js.map",
+    "index.html": "/capitalgame/index.html",
+    "precache-manifest.2d970c8d11b9c1dcff0cceb707c4c846.js": "/capitalgame/precache-manifest.2d970c8d11b9c1dcff0cceb707c4c846.js",
+    "service-worker.js": "/capitalgame/service-worker.js",
+    "static/css/main.26aa9c38.chunk.css.map": "/capitalgame/static/css/main.26aa9c38.chunk.css.map",
+    "static/media/celebration.gif": "/capitalgame/static/media/celebration.9bb48ce6.gif",
+    "static/media/ninjas.jpg": "/capitalgame/static/media/ninjas.6bbee876.jpg",
+    "static/media/nope.gif": "/capitalgame/static/media/nope.dd8aac9c.gif",
+    "static/media/Profile.scss": "/capitalgame/static/media/profile_bg.eca3f8ce.png",
+    "static/media/profile_plaholder.png": "/capitalgame/static/media/profile_plaholder.4788048f.png"
+  }
+}
